@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/Orgcharts/.idea/Orgcharts.iml" filepath="$USER_HOME$/Orgcharts/.idea/Orgcharts.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/Sample/.idea/Sample.iml" filepath="$USER_HOME$/PycharmProjects/Sample/.idea/Sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SmartHire.iml" filepath="$PROJECT_DIR$/.idea/SmartHire.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/Translate/.idea/Translate.iml" filepath="$USER_HOME$/PycharmProjects/Translate/.idea/Translate.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/genericorgchart1/genericorgchart/.idea/genericorgchart.iml" filepath="$USER_HOME$/Downloads/genericorgchart1/genericorgchart/.idea/genericorgchart.iml" />
     </modules>
   </component>
 </project>

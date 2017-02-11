@@ -4,5 +4,9 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="genericorgchart" />
+    <orderEntry type="module" module-name="Sample" />
+    <orderEntry type="module" module-name="Orgcharts" />
+    <orderEntry type="module" module-name="Translate" />
   </component>
 </module>
